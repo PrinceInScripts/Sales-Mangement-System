@@ -4,12 +4,12 @@
 <hr/>
 
 ## Features
--Product Management: Add, display, and manage your product inventory.
--Customer Management: Add and view customer details for a personalized experience.
--Order Creation: Easily create orders, associating them with specific customers and products.
--Data Persistence: Save and load data to/from files for persistent storage.
--Configuration Management: Customize system configurations, such as file paths and precision settings.
--User-friendly Interface: A straightforward console-based interface for ease of use.
+*Product Management: Add, display, and manage your product inventory.
+*Customer Management: Add and view customer details for a personalized experience.
+*Order Creation: Easily create orders, associating them with specific customers and products.
+*Data Persistence: Save and load data to/from files for persistent storage.
+*Configuration Management: Customize system configurations, such as file paths and precision settings.
+*User-friendly Interface: A straightforward console-based interface for ease of use.
 
 ## Screenshots
 Include relevant screenshots here to provide a visual overview of your application.
