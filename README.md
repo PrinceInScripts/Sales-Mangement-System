@@ -1,4 +1,4 @@
-<h1 align="center"Sales Management System></h1>
+<h1 align="center">Sales Management System</h1>
 <p align="center">A simple Sales Management System implemented in C++. This system allows you to efficiently manage products, customers, and orders, providing a streamlined solution for business operations.</p>
 
 <hr/>
