@@ -2,12 +2,12 @@
 #pragma once
 
 #include <iostream>
-using namespace std;
+
 
 class Product{
 public: 
       int id;
-      string name;
+      std::string name;
       double price;
       int quantity;
 

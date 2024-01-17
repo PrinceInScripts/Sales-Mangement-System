@@ -1,0 +1,4 @@
+#Configuration file for sales ManageMent System
+data_file = data.txt
+price_precision = 2
+quantity_precision = 0
